@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">notification1_kotlin</string>
+    <string name="conten_title">day la tieu de thong bao</string>
+    <string name="notification_content">day la thong bao bao luc</string>
+    <string name="name_channel">day la ten kenh thong bao</string>
+    <string name="description_channel">day la mo ta kenh thong bao</string>
+</resources>
